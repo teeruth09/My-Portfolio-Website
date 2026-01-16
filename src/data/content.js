@@ -1,10 +1,10 @@
 export const USER_INFO = {
-  name: "ชื่อ-นามสกุล ของคุณ",
-  role: "Web Developer / Frontend Engineer",
-  bio: "คำอธิบายตัวตนของคุณ...",
-  email: "your.email@example.com",
-  github: "https://github.com/yourusername",
-  linkedin: "https://linkedin.com/in/yourusername"
+  name: "I'm Teeruth Ieowsakulrat",
+  role: "FullStack Developer / Software Engineer",
+  bio: "A passionate fourth-year Computer Engineering student at KMITL with strong interests in full-stack development, DevOps, and software engineering.",
+  email: "teeruth2546@gmail.com",
+  github: "https://github.com/teeruth09",
+  linkedin: "https://www.linkedin.com/in/teeruth-ieowsakulrat/"
 };
 
 export const SKILLS = [
@@ -16,18 +16,11 @@ export const SKILLS = [
 export const EXPERIENCES = [
   {
     id: 1,
-    role: "Junior Web Developer",
-    company: "Tech Company A",
-    period: "2023 - ปัจจุบัน",
+    role: "Full Stack Developer",
+    company: "Smart Shift Solutions",
+    period: "April 2025 - Now",
     description: "รับผิดชอบการพัฒนาหน้าเว็บไซต์ด้วย React และเชื่อมต่อกับ API พัฒนาฟีเจอร์ใหม่ๆ และแก้ไขบั๊ก"
   },
-  {
-    id: 2,
-    role: "Web Developer Intern",
-    company: "Digital Agency B",
-    period: "2022 (3 เดือน)",
-    description: "เรียนรู้การทำงานเป็นทีมแบบ Agile และช่วยพี่เลี้ยงทำโปรเจกต์ Landing Page ให้ลูกค้า"
-  }
 ];
 export const PROJECTS = [
   {
